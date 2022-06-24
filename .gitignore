@@ -1,0 +1,7 @@
+# Folders
+/Cofucan/.env
+**/__pycache__/
+/.idea
+
+# Files
+db.sqlite3
