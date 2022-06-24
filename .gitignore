@@ -1,7 +1,7 @@
 # Folders
-/Cofucan/.env
 **/__pycache__/
 /.idea
 
 # Files
+/Cofucan/.env
 db.sqlite3
